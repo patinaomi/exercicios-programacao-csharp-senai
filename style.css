@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css2?family=Bellota:wght@300;700&display=swap');
+
+* {
+
+    margin: 0;
+    box-sizing: border-box;
+    font-family: sans-serif;
+    text-align: center;
+    font-family: 64px;
+    font-family: 'Bellota', cursive;
+    background-color: antiquewhite;
+}
+
+h1 {
+    font-size: 84px;
+    font-weight: bold;
+    margin: 100px 0 40px 0;
+    color: brown;
+
+}
+
+h2 {
+    font-size: 44px;
+    color: darkgray;
+    margin-bottom: 60px;
+}
+
+h3 {
+    font-weight: bold;
+}
+
+h4 {
+    margin-top: 60px;
+    font-size: 44px;
+    color: gray;
+}
+
+.caixa-de-texto {
+    padding: 20px;
+    font-size: 24px;
+    margin: 10px 0 40px 0;
+    background-color: white;
+    border-radius: 10px;
+    border: 1px dotted;
+}
+
+.botao {
+    margin: 20px 0 0 0;
+    font-size: 24px;
+    width: 300px;
+    padding: 10px;
+}
+
+.botao:hover {
+    background-color: burlywood;
+    transition: 0.5s;
+    font-weight: bold;
+}
+
+.resultado {
+    font-size: 54px;
+    color: coral;
+}
