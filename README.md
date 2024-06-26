@@ -12,9 +12,8 @@ Repositório dedicado para armazenar os exercícios no curso de Programação C#
   * [Aula 1/15 - Introdução](#aula-115---introduçao)
   * [Aula 2/15 - Fundamentos da Computação](#aula-215---fundamentos-da-computaçao)
   * [Aula 3/15 - Lógica de Programação](#aula-315---logica-de-programaçao)
-  * 
-  * [Aula 4/15 - Continuação Python](#aula-415---continuação-python)
-  * [Aula 5/15 - Bibliotecas Python](#aula-515---bibliotecas-python)
+  * [Aula 4/15 - Fluxogramas](#aula-415---continuação-python)
+  * [Aula 5/15 - Operadores Lógicos](#aula-515---bibliotecas-python)
 * [Semana 2](#semana-2)
   * [Aula 6/15 - Introdução a Banco de Dados](#aula-615---introdução-a-banco-de-dados)
   * [Aula 7/15 - Continuação Banco de Dados](#aula-715---continuação-banco-de-dados)
@@ -62,14 +61,19 @@ Exercícios Teóricos sobre a aula - Algoritmos e Fluxogramas
 6) Apresentar todos os valores númericos inteiros ímpares situados na faixa de 0 a 20.
 
 
+
+### Aula 4/15 - Fluxogramas
 #### [Exercicio 003](semana1/003.md)
 
-
-
-### Aula 4/15 - Continuação Python
+### Aula 5/15 - Operadores Lógicos
 
 #### [Exercicio 004](semana1/004.py)
-Exemplo de uso de estruturas de decisões.
+
+
+
+## Semana 2
+
+
 
 #### [Exercicio 005](semana1/005.py)
 Exemplo de uso do loop while.
@@ -87,9 +91,7 @@ Verificar a quantidade de elementos em uma lista.
 Faça uma função que receba uma string e imprima esta string na forma vertical.Dica: uma String do python funciona como uma lista. Crie também um código para testar sua função.
 
 
-### Aula 5/15 - Bibliotecas Python
 
-## Semana 2
 
 ### Aula 6/15 - Introdução a Banco de Dados
 
