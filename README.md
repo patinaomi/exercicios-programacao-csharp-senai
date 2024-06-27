@@ -9,13 +9,13 @@ Repositório dedicado para armazenar os exercícios no curso de Programação C#
 * [Índice](#índice)
 * [Enunciados](#enunciados)
 * [Semana 1](#semana-1)
-  * [Aula 1/15 - Introdução](#aula-115---introduçao)
-  * [Aula 2/15 - Fundamentos da Computação](#aula-215---fundamentos-da-computaçao)
-  * [Aula 3/15 - Lógica de Programação](#aula-315---logica-de-programaçao)
-  * [Aula 4/15 - Fluxogramas](#aula-415---continuação-python)
-  * [Aula 5/15 - Operadores Lógicos](#aula-515---bibliotecas-python)
+  * [Aula 1/15 - Introdução](#aula-115---introdução)
+  * [Aula 2/15 - Fundamentos da Computação](#aula-215---fundamentos-da-computação)
+  * [Aula 3/15 - Lógica de Programação](#aula-315---lógica-de-programação)
+  * [Aula 4/15 - Fluxogramas](#aula-415---fluxogramas)
+  * [Aula 5/15 - Operadores Lógicos](#aula-515---operadores-lógicos)
 * [Semana 2](#semana-2)
-  * [Aula 6/15 - Introdução a Banco de Dados](#aula-615---introdução-a-banco-de-dados)
+  * [Aula 6/15 - Introdução a Programação C#](#aula-615---introdução-a-banco-de-dados)
   * [Aula 7/15 - Continuação Banco de Dados](#aula-715---continuação-banco-de-dados)
   * [Aula 8/15 - Listas](#aula-820---listas)
   * [Aula 9/15 - Continuação Listas](#aula-920---continuação-listas)
@@ -64,36 +64,38 @@ Exercícios Teóricos sobre a aula - Algoritmos e Fluxogramas
 
 ### Aula 4/15 - Fluxogramas
 #### [Exercicio 003](semana1/003.md)
+1) Elabore um algoritmo para : Apresentar todos os valores numéricos inteiros impares situados na faixa de 0 a 20.
+2) Elaborar um algoritmo que apresente o valor de uma potência de uma base qualquer, elevada a um expoente qualquer.
+3) Elaborar um algoritmo que efetue a leitura de 10 valores numéricos e apresente no final o total do somatório e a média dos valores lidos.
+4) Crie um programa que solicite ao usuário um número e exiba a tabuada desse número utilizando um laço de repetição.
+
 
 ### Aula 5/15 - Operadores Lógicos
+#### [Exercicio 004](semana1/004.md)
 
-#### [Exercicio 004](semana1/004.py)
-
-
+[:arrow_up: voltar para o índice :arrow_up:](#índice)
 
 ## Semana 2
 
+### Aula 6/15 - Introdução a Programação C#
 
-
-#### [Exercicio 005](semana1/005.py)
+#### [Exercicio 005](semana2/005.py)
 Exemplo de uso do loop while.
 
-#### [Exercicio 006](semana1/006.py)
+#### [Exercicio 006](semana2/006.py)
 Exemplo de uso do loop for.
 
-#### [Exercicio 007](semana1/007.py)
+#### [Exercicio 007](semana2/007.py)
 Crie um programa para armazenar dados em uma lista.
 
-#### [Exercicio 008](semana1/008.py)
+#### [Exercicio 008](semana2/008.py)
 Verificar a quantidade de elementos em uma lista.
 
-#### [Exercicio 009](semana1/009.py)
+#### [Exercicio 009](semana2/009.py)
 Faça uma função que receba uma string e imprima esta string na forma vertical.Dica: uma String do python funciona como uma lista. Crie também um código para testar sua função.
 
 
 
-
-### Aula 6/15 - Introdução a Banco de Dados
 
 ### Aula 7/15 - Continuação Banco de Dados
 
