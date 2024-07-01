@@ -15,7 +15,7 @@ Repositório dedicado para armazenar os exercícios no curso de Programação C#
   * [Aula 4/15 - Fluxogramas](#aula-415---fluxogramas)
   * [Aula 5/15 - Continuação Fluxogramas](#aula-515---operadores-lógicos)
 * [Semana 2](#semana-2)
-  * [Aula 6/15 - Introdução a Programação C#](#aula-615---introdução-a-programação-c#)
+  * [Aula 6/15 - Introdução a Programação C#](#aula-615---introdução-a-programação-c)
   * [Aula 7/15 - Conversões de Dados](#aula-715---conversões-de-dados)
   * [Aula 8/15 - Listas](#aula-820---listas)
   * [Aula 9/15 - Continuação Listas](#aula-920---continuação-listas)
