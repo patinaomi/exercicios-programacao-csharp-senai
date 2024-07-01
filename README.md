@@ -13,10 +13,10 @@ Repositório dedicado para armazenar os exercícios no curso de Programação C#
   * [Aula 2/15 - Fundamentos da Computação](#aula-215---fundamentos-da-computação)
   * [Aula 3/15 - Lógica de Programação](#aula-315---lógica-de-programação)
   * [Aula 4/15 - Fluxogramas](#aula-415---fluxogramas)
-  * [Aula 5/15 - Operadores Lógicos](#aula-515---operadores-lógicos)
+  * [Aula 5/15 - Continuação Fluxogramas](#aula-515---operadores-lógicos)
 * [Semana 2](#semana-2)
-  * [Aula 6/15 - Introdução a Programação C#](#aula-615---introdução-a-banco-de-dados)
-  * [Aula 7/15 - Continuação Banco de Dados](#aula-715---continuação-banco-de-dados)
+  * [Aula 6/15 - Introdução a Programação C#](#aula-615---introdução-a-programação-c#)
+  * [Aula 7/15 - Conversões de Dados](#aula-715---conversões-de-dados)
   * [Aula 8/15 - Listas](#aula-820---listas)
   * [Aula 9/15 - Continuação Listas](#aula-920---continuação-listas)
   * [Aula 10/15 - Tuplas](#aula-1020---tuplas)
@@ -60,8 +60,6 @@ Exercícios Teóricos sobre a aula - Algoritmos e Fluxogramas
   
 6) Apresentar todos os valores númericos inteiros ímpares situados na faixa de 0 a 20.
 
-
-
 ### Aula 4/15 - Fluxogramas
 #### [Exercicio 003](semana1/003.md)
 1) Elabore um algoritmo para : Apresentar todos os valores numéricos inteiros impares situados na faixa de 0 a 20.
@@ -69,9 +67,14 @@ Exercícios Teóricos sobre a aula - Algoritmos e Fluxogramas
 3) Elaborar um algoritmo que efetue a leitura de 10 valores numéricos e apresente no final o total do somatório e a média dos valores lidos.
 4) Crie um programa que solicite ao usuário um número e exiba a tabuada desse número utilizando um laço de repetição.
 
-
-### Aula 5/15 - Operadores Lógicos
+### Aula 5/15 - Continuação Fluxogramas
 #### [Exercicio 004](semana1/004.md)
+1) Escreva um algoritmo que solicite ao usuário dois números e exiba: Adição, subtração, divisão e multiplicação entre esses números, conforme a escolha do usuário
+2) Identificar quando é aplicado um desconto a um Carrinho de Compras: Regra para aplicar o desconto no carrinho: Se Forma de Pagamento for igual a PIX ou Boleto , aplicar desconto. Para a demais formas de pagamento , não aplicar desconto.
+3) Elaborar um algoritmo que efetue a leitura de 10 valores numéricos e apresente no final o total do somatório e a média dos valores lidos.
+4) Crie um algoritmo que solicite a idade de uma pessoa e exiba se ela é criança (0-12 anos), adolescente (13-17 anos), adulto (18-59 anos) ou idoso (60 anos ou mais).
+5) Escreva um algoritmo que calcule o IMC de um indivíduo, utilizando o fórmula IMC = peso /altura², e, que devolva a classificação e atenção médica do IMC de um indivíduo.
+6) Escreva um algoritmo que imprima na tela a tabuada de todos os números de 1 a 10.
 
 [:arrow_up: voltar para o índice :arrow_up:](#índice)
 
@@ -79,30 +82,25 @@ Exercícios Teóricos sobre a aula - Algoritmos e Fluxogramas
 
 ### Aula 6/15 - Introdução a Programação C#
 
-#### [Exercicio 005](semana2/005.py)
-Exemplo de uso do loop while.
+#### [Exercicio 005](semana2/005.cs)
+Escreva um programa que calcule a média aritmética de dois números.
 
-#### [Exercicio 006](semana2/006.py)
-Exemplo de uso do loop for.
+#### [Exercicio 006](semana2/006.cs)
+Escreva um programa que solicite ao usuário dois números e exiba a soma, subtração, multiplicação e divisão entre eles.
 
-#### [Exercicio 007](semana2/007.py)
+
+### Aula 7/15 - Conversões de Dados
+
+#### [Exercicio 007](semana2/007.cs)
 Crie um programa para armazenar dados em uma lista.
 
-#### [Exercicio 008](semana2/008.py)
+#### [Exercicio 008](semana2/008.cs)
 Verificar a quantidade de elementos em uma lista.
 
-#### [Exercicio 009](semana2/009.py)
+#### [Exercicio 009](semana2/009.cs)
 Faça uma função que receba uma string e imprima esta string na forma vertical.Dica: uma String do python funciona como uma lista. Crie também um código para testar sua função.
 
-
-
-
-### Aula 7/15 - Continuação Banco de Dados
-
-#### [Arquivos Banco de Dados](semana2/arquivos-banco)
-
-
-#### [Exercicio 011](semana1/011.py)
+#### [Exercicio 011](semana1/011.cs)
 Crie um programa e declare uma constante PI (use 4 casas após a vírgula). Dados o raio e a altura, calcular e apresentar o valor do volume de uma lata de óleo, utilizando a fórmula: volume = PI * r² * altura
 
 
