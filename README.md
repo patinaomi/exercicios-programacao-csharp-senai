@@ -13,19 +13,19 @@ Repositório dedicado para armazenar os exercícios no curso de Programação C#
   * [Aula 2/15 - Fundamentos da Computação](#aula-215---fundamentos-da-computação)
   * [Aula 3/15 - Lógica de Programação](#aula-315---lógica-de-programação)
   * [Aula 4/15 - Fluxogramas](#aula-415---fluxogramas)
-  * [Aula 5/15 - Continuação Fluxogramas](#aula-515---operadores-lógicos)
+  * [Aula 5/15 - Continuação Fluxogramas](#aula-515---continuação-fluxogramas)
 * [Semana 2](#semana-2)
   * [Aula 6/15 - Introdução a Programação C#](#aula-615---introdução-a-programação-c)
   * [Aula 7/15 - Conversões de Dados](#aula-715---conversões-de-dados)
-  * [Aula 8/15 - Listas](#aula-820---listas)
-  * [Aula 9/15 - Continuação Listas](#aula-920---continuação-listas)
-  * [Aula 10/15 - Tuplas](#aula-1020---tuplas)
+  * [Aula 8/15 - Loops de Repetição](#aula-815---loops-de-repetição)
+  * [Aula 9/15 - Continuação Listas](#aula-915---continuação-listas)
+  * [Aula 10/15 - Tuplas](#aula-1015---tuplas)
  * [Semana 3](#semana-3)
-   * [Aula 11/15 - Dicionários](#aula-1120---dicionários)
-   * [Aula 12/15 - Continuação Dicionários](#aula-1220---continuação-dicionários)
-   * [Aula 13/15 - Funções](#aula-1320---funções)
-   * [Aula 14/15 - Continuação Funções](#aula-1420---continuação-funções)
-   * [Aula 15/15 - Continuação Funções pt. 2](#aula-1520---continuação-funções-pt2)
+   * [Aula 11/15 - Dicionários](#aula-1115---dicionários)
+   * [Aula 12/15 - Continuação Dicionários](#aula-1215---continuação-dicionários)
+   * [Aula 13/15 - Funções](#aula-1315---funções)
+   * [Aula 14/15 - Continuação Funções](#aula-1415---continuação-funções)
+   * [Aula 15/15 - Continuação Funções pt. 2](#aula-1515---continuação-funções-pt2)
 
 # Enunciados
 
@@ -88,43 +88,46 @@ Escreva um programa que calcule a média aritmética de dois números.
 #### [Exercicio 006](semana2/006.cs)
 Escreva um programa que solicite ao usuário dois números e exiba a soma, subtração, multiplicação e divisão entre eles.
 
-
 ### Aula 7/15 - Conversões de Dados
+<center> <i>O <b>Int32.Parse(valor)</b> só converte conteúdo vindo de string. O <b>Convert.ToInt32()</b> tem sobrecargas para trabalhar com vários tipos.* </i> </center>
 
 #### [Exercicio 007](semana2/007.cs)
-Crie um programa para armazenar dados em uma lista.
+Faça um programa que apresente o valor de uma potência de uma base qualquer, elevada a um expoente qualquer.
 
 #### [Exercicio 008](semana2/008.cs)
-Verificar a quantidade de elementos em uma lista.
+Exemplo de If-Else e de Operador Ternário.
 
 #### [Exercicio 009](semana2/009.cs)
-Faça uma função que receba uma string e imprima esta string na forma vertical.Dica: uma String do python funciona como uma lista. Crie também um código para testar sua função.
+Faça um programa que solicite a idade de uma pessoa e exiba se ela é maior de idade ou não.
 
-#### [Exercicio 011](semana1/011.cs)
-Crie um programa e declare uma constante PI (use 4 casas após a vírgula). Dados o raio e a altura, calcular e apresentar o valor do volume de uma lata de óleo, utilizando a fórmula: volume = PI * r² * altura
+#### [Exercicio 010](semana2/010.cs)
+Exemplo de uso de swith-case (aqui foi utilizado o upper)
 
+#### [Exercicio 011](semana2/011.cs)
+Exemplo de uso de swith-case (foi utilizado com números)
 
+### Aula 8/15 - Loops de Repetição
 
-#### [Exercicio 012](semana1/012.py)
+#### [Exercicio 012](semana2/012.cs)
 Faça um programa que leia 2 notas de um aluno, calcule a média e imprima aprovado ou reprovado (para ser aprovado a média deve ser no mínimo 6)
 
-#### [Exercicio 013](semana1/013.py)
+#### [Exercicio 013](semana2/013.cs)
 Faça um programa que peça dois números ao usuário e mostre qual o maior e qual o menor
 
-#### [Exercicio 014](semana1/014.py)
+#### [Exercicio 014](semana2/014.cs)
 Escreva um programa em Python que recebe um inteiro e diga se é par ou ímpar
 
-#### [Exercicio 015](semana1/015.py)
+#### [Exercicio 015](semana2/015.cs)
 Escreva um programa que pergunte o ano de nascimento de uma pessoa e diga se ele é maior de idade
 
-#### [Exercicio 016](semana1/016.py)
+#### [Exercicio 016](semana2/016.cs)
 Faça um algoritmo para ler dois números inteiros e informar se estes são iguais ou diferentes
 
-[:arrow_up: voltar para o índice :arrow_up:](#índice)
 
 
 
-### Aula 6/15 - Estrutura Condicional elif
+
+
 
 #### [Exercicio 017](semana2/017.py)
 Desenvolve um programa que recebe do usuário, o placar de um jogo de futebol (os gols de cada time) e informe se o resultado foi um empate, se a vitória foi do primeiro time ou do segundo time
