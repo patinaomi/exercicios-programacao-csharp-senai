@@ -109,10 +109,12 @@ Exemplo de uso de swith-case (foi utilizado com números)
 ### Aula 8/15 - Loops de Repetição
 
 #### [Exercicio 012](semana2/012.cs)
-Faça um programa que leia 2 notas de um aluno, calcule a média e imprima aprovado ou reprovado (para ser aprovado a média deve ser no mínimo 6)
+Fazer um programa que efetue a leitura de 10 valores numéricos e apresente no final o total do somatório e a média dos valores lidos. 
 
 #### [Exercicio 013](semana2/013.cs)
-Faça um programa que peça dois números ao usuário e mostre qual o maior e qual o menor
+Desenvolva um programa para criar uma lista de compras, conforme o input do usuário. Ao fim da lista, ordenar e imprimir cada item da lista, linha a linha.
+
+### Aula 9/15 - Estrutura de repetição While e For
 
 #### [Exercicio 014](semana2/014.cs)
 Escreva um programa em Python que recebe um inteiro e diga se é par ou ímpar
@@ -145,12 +147,12 @@ Adultos = Maiores de 18 anos
 #### [Exercicio 020](semana2/020.py)
 Faça um programa que solicite dois números ao usuário (com decimais). Em seguida solicite que o usuário informe o resultado das quatro operações matemáticas (subtração, soma, multiplicação e divisão)
 
-### Aula 7/15 - Estrutura de repetição While e For
+
 
 #### [Exercicio 021](semana2/021.py)
 Crie um programa que busque um nome em uma lista, caso não seja encontrado imprima uma mensagem dizendo que o nome não está na lista. 
 
-### Aula 8/15 - Listas
+### Aula 10/15 - Listas
 
 #### [Exercicio 022](semana2/022.py)
 Construa um programa em Python utilizando os comandos aprendidos até agora para encontrar todos os números pares entre 1 e 100.
@@ -164,7 +166,7 @@ Faça um programa em Python (utilize a estrutura FOR) que leia 10 valores inteir
 #### [Exercicio 024](semana2/024.py)
 Faça um programa em linguagem Python que recebe a temperatura de um cliente e imprima a mensagem de se a temperatura está normal (menor que 37,2 C) ou está em estado febril (37,3 C e 38 C) ou com febre (38C a 39C) e com febre alta (acima 39 C). No final mostre a quantidade de pessoas analisadas e a média da temperatura.
 
-### Aula 9/15 - Continuação Listas
+### Aula 10/15 - Continuação Listas
 
 #### [Exercicio 025](semana2/025.py)
 Ler do teclado a idade e o sexo de 10 pessoas, calcule e imprima:
@@ -184,13 +186,13 @@ Escreva um programa em Python para encontrar o fatorial de qualquer número.
 #### [Exercicio 029](semana2/029.py)
 Faça um programa que leia um nome de usuário e a sua senha e não aceite a senha igual ao nome do usuário, mostrando uma mensagem de erro e voltando a pedir as informações.
 
-### Aula 10/15 - Tuplas
+### Aula 11/15 - Tuplas
 
 [:arrow_up: voltar para o índice :arrow_up:](#índice)
 
 ## Semana 3
 
-### Aula 11/15 - Dicionários
+### Aula 12/15 - Dicionários
 
 #### [Exercicio 030](semana3/030.py)
 Faça um programa, com uma função que guarda informações: nome, sobrenome e idade. Abra um menu de consulta pegando todos os dados cadastrados da consulta.
@@ -198,12 +200,12 @@ Faça um programa, com uma função que guarda informações: nome, sobrenome e 
 #### [Exercicio 031](semana3/031.py)
 Faça um programa que busque os dados de um usuário cadastrado.
 
-### Aula 12/15 - Continuação Dicionários
+### Aula 13/15 - Continuação Dicionários
 
 #### [Exercicio 032](semana3/032.py)
 Faça um programa que busque os dados de um usuário cadastrado.
 
-### Aula 13/15 - Funções
+### Aula 14/15 - Funções
 
 #### [Exercicio 033](semana3/033.py)
 Exemplo de uso com a biblioteca Statistics.
@@ -214,7 +216,7 @@ Exemplo de como arredondar números fom funções.
 #### [Exercicio 035](semana3/035.py)
 Verificar o mínimo e o máximo em uma lista.
 
-### Aula 14/15 - Continuação Funções
+### Aula 15/15 - Continuação Funções
 #### [Exercicio 036](semana3/036.py)
 Desenvolva um algoritmo calculadora que execute as operações:
 * Soma
