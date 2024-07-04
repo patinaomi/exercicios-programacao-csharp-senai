@@ -5,7 +5,7 @@ using System.Text;
 using System.Threading.Tasks;
 
 namespace ConsoleApp1
-{
+{ //Faça um programa que peça ao usuário um número e depois imprima a tabuada de 1 a 10.
     internal class Program
     {
         static void Main(string[] args)
