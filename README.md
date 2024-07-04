@@ -18,7 +18,7 @@ Repositório dedicado para armazenar os exercícios no curso de Programação C#
   * [Aula 6/15 - Introdução a Programação C#](#aula-615---introdução-a-programação-c)
   * [Aula 7/15 - Conversões de Dados](#aula-715---conversões-de-dados)
   * [Aula 8/15 - Loops de Repetição](#aula-815---loops-de-repetição)
-  * [Aula 9/15 - Continuação Listas](#aula-915---continuação-listas)
+  * [Aula 9/15 - Vetores](#aula-915---vetores)
   * [Aula 10/15 - Tuplas](#aula-1015---tuplas)
  * [Semana 3](#semana-3)
    * [Aula 11/15 - Dicionários](#aula-1115---dicionários)
@@ -114,22 +114,18 @@ Fazer um programa que efetue a leitura de 10 valores numéricos e apresente no f
 #### [Exercicio 013](semana2/013.cs)
 Desenvolva um programa para criar uma lista de compras, conforme o input do usuário. Ao fim da lista, ordenar e imprimir cada item da lista, linha a linha.
 
-### Aula 9/15 - Estrutura de repetição While e For
+### Aula 9/15 - Vetores
 
 #### [Exercicio 014](semana2/014.cs)
-Escreva um programa em Python que recebe um inteiro e diga se é par ou ímpar
+Faça um programa que peça ao usuário um número e depois imprima a tabuada de 1 a 10.
 
 #### [Exercicio 015](semana2/015.cs)
-Escreva um programa que pergunte o ano de nascimento de uma pessoa e diga se ele é maior de idade
+Faça um programa que imprima na tela a tabuada de todos os números de 1 a 10.
 
 #### [Exercicio 016](semana2/016.cs)
-Faça um algoritmo para ler dois números inteiros e informar se estes são iguais ou diferentes
+Desenvolva um programa para criar, editar, listar e deletar uma lista de compras.
 
-
-
-
-
-
+### Aula 10/15 - Matriz
 
 #### [Exercicio 017](semana2/017.py)
 Desenvolve um programa que recebe do usuário, o placar de um jogo de futebol (os gols de cada time) e informe se o resultado foi um empate, se a vitória foi do primeiro time ou do segundo time
@@ -152,7 +148,7 @@ Faça um programa que solicite dois números ao usuário (com decimais). Em segu
 #### [Exercicio 021](semana2/021.py)
 Crie um programa que busque um nome em uma lista, caso não seja encontrado imprima uma mensagem dizendo que o nome não está na lista. 
 
-### Aula 10/15 - Listas
+
 
 #### [Exercicio 022](semana2/022.py)
 Construa um programa em Python utilizando os comandos aprendidos até agora para encontrar todos os números pares entre 1 e 100.
