@@ -19,9 +19,9 @@ Repositório dedicado para armazenar os exercícios no curso de Programação C#
   * [Aula 7/15 - Conversões de Dados](#aula-715---conversões-de-dados)
   * [Aula 8/15 - Loops de Repetição](#aula-815---loops-de-repetição)
   * [Aula 9/15 - Vetores](#aula-915---vetores)
-  * [Aula 10/15 - Tuplas](#aula-1015---tuplas)
+  * [Aula 10/15 - Funções](#aula-1015---funções)
  * [Semana 3](#semana-3)
-   * [Aula 11/15 - Dicionários](#aula-1115---dicionários)
+   * [Aula 11/15 - Arquivos](#aula-1115---arquivos)
    * [Aula 12/15 - Continuação Dicionários](#aula-1215---continuação-dicionários)
    * [Aula 13/15 - Funções](#aula-1315---funções)
    * [Aula 14/15 - Continuação Funções](#aula-1415---continuação-funções)
@@ -125,24 +125,36 @@ Faça um programa que imprima na tela a tabuada de todos os números de 1 a 10.
 #### [Exercicio 016](semana2/016.cs)
 Desenvolva um programa para criar, editar, listar e deletar uma lista de compras.
 
-### Aula 10/15 - Matriz
+### Aula 10/15 - Funções
 
-#### [Exercicio 017](semana2/017.py)
-Desenvolve um programa que recebe do usuário, o placar de um jogo de futebol (os gols de cada time) e informe se o resultado foi um empate, se a vitória foi do primeiro time ou do segundo time
-
-#### [Exercicio 018](semana2/018.py)
-Faça um algoritmo que receba um valor de uma compra e receba o número de prestações, apresente o valor das prestações sem juros
-
-#### [Exercicio 019](semana2/019.py)
-Elabore um algoritmo que dada a idade de um nadador classifique-o em uma das seguintes categorias: Infantil A = 5 a 7 anos
-Infantil B = 8 a 11 anos
-Juvenil A = 12 a 13 anos
-Juvenil B = 14 a 17 anos
-Adultos = Maiores de 18 anos
-
-#### [Exercicio 020](semana2/020.py)
+#### [Exercicio 017](semana2/017.cs)
 Faça um programa que solicite dois números ao usuário (com decimais). Em seguida solicite que o usuário informe o resultado das quatro operações matemáticas (subtração, soma, multiplicação e divisão)
 
+#### [Exercicio 018](semana2/018.cs)
+Escreva um função que receba o lado de um quadrado e retorne sua área (A = lado²)
+
+### Manipulação de arquivos
+
+#### [Exercicio 019](semana3/019.cs)
+Manipulação de Arquivos - Faça um programa que imprima na tela a tabuada de todos os números de 1 a 10.
+
+#### [Exercicio 020](semana3/020.cs)
+Manipulação de Arquivos - Desenvolva um programa para criar, editar, listar e deletar uma lista de compras.
+
+[:arrow_up: voltar para o índice :arrow_up:](#índice)
+
+## Semana 3
+### Aula 11/15 - Arquivos
+
+
+
+### Aula 12/15 - Dicionários
+
+### Aula 13/15 - Continuação Dicionários
+### Aula 14/15 - Funções
+### Aula 15/15 - Continuação Funções
+
+[:arrow_up: voltar para o índice :arrow_up:](#índice)
 
 
 #### [Exercicio 021](semana2/021.py)
@@ -162,7 +174,7 @@ Faça um programa em Python (utilize a estrutura FOR) que leia 10 valores inteir
 #### [Exercicio 024](semana2/024.py)
 Faça um programa em linguagem Python que recebe a temperatura de um cliente e imprima a mensagem de se a temperatura está normal (menor que 37,2 C) ou está em estado febril (37,3 C e 38 C) ou com febre (38C a 39C) e com febre alta (acima 39 C). No final mostre a quantidade de pessoas analisadas e a média da temperatura.
 
-### Aula 10/15 - Continuação Listas
+
 
 #### [Exercicio 025](semana2/025.py)
 Ler do teclado a idade e o sexo de 10 pessoas, calcule e imprima:
@@ -182,13 +194,6 @@ Escreva um programa em Python para encontrar o fatorial de qualquer número.
 #### [Exercicio 029](semana2/029.py)
 Faça um programa que leia um nome de usuário e a sua senha e não aceite a senha igual ao nome do usuário, mostrando uma mensagem de erro e voltando a pedir as informações.
 
-### Aula 11/15 - Tuplas
-
-[:arrow_up: voltar para o índice :arrow_up:](#índice)
-
-## Semana 3
-
-### Aula 12/15 - Dicionários
 
 #### [Exercicio 030](semana3/030.py)
 Faça um programa, com uma função que guarda informações: nome, sobrenome e idade. Abra um menu de consulta pegando todos os dados cadastrados da consulta.
@@ -196,12 +201,11 @@ Faça um programa, com uma função que guarda informações: nome, sobrenome e 
 #### [Exercicio 031](semana3/031.py)
 Faça um programa que busque os dados de um usuário cadastrado.
 
-### Aula 13/15 - Continuação Dicionários
 
 #### [Exercicio 032](semana3/032.py)
 Faça um programa que busque os dados de um usuário cadastrado.
 
-### Aula 14/15 - Funções
+
 
 #### [Exercicio 033](semana3/033.py)
 Exemplo de uso com a biblioteca Statistics.
@@ -212,7 +216,7 @@ Exemplo de como arredondar números fom funções.
 #### [Exercicio 035](semana3/035.py)
 Verificar o mínimo e o máximo em uma lista.
 
-### Aula 15/15 - Continuação Funções
+
 #### [Exercicio 036](semana3/036.py)
 Desenvolva um algoritmo calculadora que execute as operações:
 * Soma
@@ -222,6 +226,3 @@ Desenvolva um algoritmo calculadora que execute as operações:
 
 Obs: guarda o valor em memória, se caso precisar retornar o valor da Memória, selecionar "Memoria"
 
-### Aula 15/15 - Continuação Funções pt.2
-
-[:arrow_up: voltar para o índice :arrow_up:](#índice)
