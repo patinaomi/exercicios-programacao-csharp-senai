@@ -22,10 +22,12 @@ Repositório dedicado para armazenar os exercícios no curso de Programação C#
   * [Aula 10/15 - Funções](#aula-1015---funções)
  * [Semana 3](#semana-3)
    * [Aula 11/15 - Arquivos](#aula-1115---arquivos)
-   * [Aula 12/15 - Continuação Dicionários](#aula-1215---continuação-dicionários)
+   * [Aula 12/15 - Orientação a Objetos](#aula-1215---orientação-a-objetos)
    * [Aula 13/15 - Funções](#aula-1315---funções)
    * [Aula 14/15 - Continuação Funções](#aula-1415---continuação-funções)
    * [Aula 15/15 - Continuação Funções pt. 2](#aula-1515---continuação-funções-pt2)
+* [Estudos](#estudos)
+   * [Aula 11/15 - Arquivos](#aula-1115---arquivos)
 
 # Enunciados
 
@@ -133,7 +135,10 @@ Faça um programa que solicite dois números ao usuário (com decimais). Em segu
 #### [Exercicio 018](semana2/018.cs)
 Escreva um função que receba o lado de um quadrado e retorne sua área (A = lado²)
 
-### Manipulação de arquivos
+[:arrow_up: voltar para o índice :arrow_up:](#índice)
+
+## Semana 3
+### Aula 11/15 - Arquivos
 
 #### [Exercicio 019](semana3/019.cs)
 Manipulação de Arquivos - Faça um programa que imprima na tela a tabuada de todos os números de 1 a 10.
@@ -141,35 +146,35 @@ Manipulação de Arquivos - Faça um programa que imprima na tela a tabuada de t
 #### [Exercicio 020](semana3/020.cs)
 Manipulação de Arquivos - Desenvolva um programa para criar, editar, listar e deletar uma lista de compras.
 
-[:arrow_up: voltar para o índice :arrow_up:](#índice)
-
-## Semana 3
-### Aula 11/15 - Arquivos
-
+### Aula 12/15 - Orientação a Objetos
+#### [Exercicio 021](semana3/021.cs)
+Exemplo de uma classe Orientada a Objetos.]
 
 
-### Aula 12/15 - Dicionários
+### Aula 13/15 - cont. Orientação a Objetos
 
-### Aula 13/15 - Continuação Dicionários
-### Aula 14/15 - Funções
-### Aula 15/15 - Continuação Funções
-
-[:arrow_up: voltar para o índice :arrow_up:](#índice)
-
-
-#### [Exercicio 021](semana2/021.py)
-Crie um programa que busque um nome em uma lista, caso não seja encontrado imprima uma mensagem dizendo que o nome não está na lista. 
-
-
-
-#### [Exercicio 022](semana2/022.py)
+#### [Exercicio 022](semana3/022.cs)
 Construa um programa em Python utilizando os comandos aprendidos até agora para encontrar todos os números pares entre 1 e 100.
 
-#### [Exercicio 023](semana2/023.py)
+#### [Exercicio 023](semana3/023.cs)
 Faça um programa em Python (utilize a estrutura FOR) que leia 10 valores inteiros e:
 *   Encontre e mostre o maior valor
 *   Encontre e mostre o menor valor
-*   Calcule e mostre a média dos números lidos 
+*   Calcule e mostre a média dos números lidos
+
+
+
+
+### Aula 14/15 - Funções
+
+
+### Aula 15/15 - Continuação Funções
+
+
+[:arrow_up: voltar para o índice :arrow_up:](#índice)
+
+
+
 
 #### [Exercicio 024](semana2/024.py)
 Faça um programa em linguagem Python que recebe a temperatura de um cliente e imprima a mensagem de se a temperatura está normal (menor que 37,2 C) ou está em estado febril (37,3 C e 38 C) ou com febre (38C a 39C) e com febre alta (acima 39 C). No final mostre a quantidade de pessoas analisadas e a média da temperatura.
@@ -210,14 +215,19 @@ Faça um programa que busque os dados de um usuário cadastrado.
 #### [Exercicio 033](semana3/033.py)
 Exemplo de uso com a biblioteca Statistics.
 
+
+
+
+
+
+### Estudos
 #### [Exercicio 034](semana3/034.py)
 Exemplo de como arredondar números fom funções.
 
 #### [Exercicio 035](semana3/035.py)
 Verificar o mínimo e o máximo em uma lista.
 
-
-#### [Exercicio 036](semana3/036.py)
+#### [Exercicio 036](estudos/036.py)
 Desenvolva um algoritmo calculadora que execute as operações:
 * Soma
 * Subtração
@@ -225,4 +235,3 @@ Desenvolva um algoritmo calculadora que execute as operações:
 * Divisão
 
 Obs: guarda o valor em memória, se caso precisar retornar o valor da Memória, selecionar "Memoria"
-
