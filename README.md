@@ -23,7 +23,7 @@ Repositório dedicado para armazenar os exercícios no curso de Programação C#
  * [Semana 3](#semana-3)
    * [Aula 11/15 - Arquivos](#aula-1115---arquivos)
    * [Aula 12/15 - Orientação a Objetos](#aula-1215---orientação-a-objetos)
-   * [Aula 13/15 - Funções](#aula-1315---funções)
+   * [Aula 13/15 - Windows Forms App](#aula-1315---windows-forms-app)
    * [Aula 14/15 - Continuação Funções](#aula-1415---continuação-funções)
    * [Aula 15/15 - Continuação Funções pt. 2](#aula-1515---continuação-funções-pt2)
 * [Estudos](#estudos)
@@ -148,14 +148,12 @@ Manipulação de Arquivos - Desenvolva um programa para criar, editar, listar e 
 
 ### Aula 12/15 - Orientação a Objetos
 #### [Exercicio 021](semana3/021.cs)
-Exemplo de uma classe Orientada a Objetos.]
+Exemplo de uma classe Orientada a Objetos.
 
-
-### Aula 13/15 - cont. Orientação a Objetos
-
-#### [Exercicio 022](semana3/022.cs)
+#### [Exercicio 022](semana3/ex-conta)
 Construa um programa em Python utilizando os comandos aprendidos até agora para encontrar todos os números pares entre 1 e 100.
 
+### Aula 13/15 - Windows Forms App
 #### [Exercicio 023](semana3/023.cs)
 Faça um programa em Python (utilize a estrutura FOR) que leia 10 valores inteiros e:
 *   Encontre e mostre o maior valor
